@@ -10,7 +10,8 @@ module.exports = {
                 email: 'agustina@wintheiser.info',
                 phone: '449.897.7415',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             },
             {
                 first_name: 'Randi',
@@ -20,7 +21,8 @@ module.exports = {
                 email: 'heberUpton@becthelar.biz',
                 phone: '(697)436-2633',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             },
             {
                 first_name: 'Sally',
@@ -30,7 +32,8 @@ module.exports = {
                 email: 'nora@treutel.name',
                 phone: '1-351-672-6358x02502',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             },
             {
                 first_name: 'Morris',
@@ -40,7 +43,8 @@ module.exports = {
                 email: 'cordell@sandfordduhklman.org',
                 phone: '(600)142-5639x9380',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             },
             {
                 first_name: 'Sidney',
@@ -50,7 +54,8 @@ module.exports = {
                 email: 'erling@davis.name',
                 phone: '554.170.3625',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             }, {
                 first_name: 'Reid',
                 last_name: 'Skiles',
@@ -59,7 +64,8 @@ module.exports = {
                 email: 'mike_harvey@nikolaus.com',
                 phone: '(543)511-2123',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             }, {
                 first_name: 'Violet',
                 last_name: 'Dickens',
@@ -68,7 +74,8 @@ module.exports = {
                 email: 'rubye_olson@collins.biz',
                 phone: '1-410-486-1411x5058',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             }, {
                 first_name: 'Marguerite',
                 last_name: 'Flatley',
@@ -77,7 +84,8 @@ module.exports = {
                 email: 'wanda_oknon@hane.meme',
                 phone: '572.978.5828x07860',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             }, {
                 first_name: 'Cary',
                 last_name: 'Schoen',
@@ -86,7 +94,8 @@ module.exports = {
                 email: 'fay@runolfon.biz',
                 phone: '1-828-134-7828x66958',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             }, {
                 first_name: 'Mazie',
                 last_name: 'Gibson',
@@ -95,7 +104,8 @@ module.exports = {
                 email: 'doug@roberts.biz',
                 phone: '144.038.7351x24117',
                 createdAt: new Date(),
-                updatedAt: new Date()
+                updatedAt: new Date(),
+                tinggi_badan: 160
             }
         ], {});
     },

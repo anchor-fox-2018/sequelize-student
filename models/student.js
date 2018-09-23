@@ -5,8 +5,23 @@ module.exports = (sequelize, DataTypes) => {
         last_name: DataTypes.STRING,
         gender: DataTypes.STRING,
         birthday: DataTypes.DATEONLY,
-        email: DataTypes.STRING,
-        phone: DataTypes.STRING
+        email: {
+            type: DataTypes.STRING,
+            validate: {
+                isEmail: {
+                    args: true,
+                    msg: "Invalid email"
+                }
+            }
+        },
+        phone: DataTypes.STRING,
+        tinggi_badan: DataTypes.INTEGER,
+        validate: {
+            min: {
+                args: 150,
+                msg: "Minimum 150"
+            }
+        }
     }, {});
     Student.associate = function(models) {
         // associations can be defined here
